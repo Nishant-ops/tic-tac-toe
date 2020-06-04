@@ -2,6 +2,7 @@
 
 int  checkwin();
 void board();
+void input();
 
 std::string player1;
 std::string player2;
